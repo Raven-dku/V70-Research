@@ -1,0 +1,10 @@
+# Eth port breakout. Left to right.
+
+1 - Brown		- CAN L
+2 - Brown/Orange  - CAN H
+3 - Orange
+4 - White/Blue
+5 - Blue
+6 - Orange/White
+7 - Green         - CAN L
+8 - Green/White   - CAN H

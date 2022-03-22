@@ -1,0 +1,22 @@
+# These are the module ID's that respond to the diagnostic message.
+# They are not internal ID's between controllers!
+
+00 80 00 03 :: 40  CEM, Central Electronic Module 
+00 80 00 09 :: 51  DIM, Driver Information Module
+00 80 08 01 :: 48  SWM, Steering Wheel Module
+00 80 10 01 :: 29  CCM, Climate Control Module
+00 80 00 11 :: 43  DDM, Driver Door Module
+00 80 00 81 :: 45  PDM, Passenger Door Module
+00 80 01 01 :: 2e  PSM, Power Seat Module
+00 80 04 01 :: 46  REM, Rear Electronic Module
+00 80 02 01 :: 58  SRS, Air bag
+00 80 20 01 :: 47  UEM, Upper Electronic Module
+00 80 00 05 :: 60  AUM, Audio Module
+00 80 00 21 :: 64  PHM, Phone Module
+		   50  CEM, Central Electronic Module (Hi-speed interface)
+		   01  BCM, Break Control Module (hi-speed network)
+	         52  AEM, Accessory Electronic Module 
+		   11  ECM, Engine Control Module (hi-speed network)
+		   28  SAS, Steering Angle Sensor (hi-speed network)
+		   6e  TCM, Transmission Control Module (hi-speed network)
+		   62  RTI, Road Traffic Information module
